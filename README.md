@@ -2,6 +2,8 @@
 
 > MyAnimeList 기반 애니메이션 탐색 + 커뮤니티 리뷰 플랫폼
 
+![이미지](./docs/screenshots/screenshot_20260713.png)
+
 애니메이션 메타데이터는 **Jikan API**에서 실시간으로 가져오고, 사용자 리뷰는 **Supabase**에 저장하는 정적 웹 애플리케이션입니다.  
 Next.js Static Export + Vercel 배포로 운영 비용 없이 빠르게 서비스할 수 있는 구조를 목표로 설계했습니다.
 
